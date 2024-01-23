@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hotshott-hacker
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on react developers
+- 👀 I’m interested in fullstack development and machine learning
+- 🌱 I’m currently learning Machine learning
+- 💞️ I’m looking to collaborate on AI developers
 - 📫 How to reach me kannandinesh870@gmail.com
 
 <!---
